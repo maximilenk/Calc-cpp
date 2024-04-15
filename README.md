@@ -1,6 +1,7 @@
 # Calc-cpp
 Desktop MVC cpp calculator for mac-os
 
+GUI написан с использованием QT
 
 Для установки калькулятора наберите команду в терминале make install.
 Для архивации команду make dist.
